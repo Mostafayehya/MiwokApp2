@@ -58,4 +58,12 @@
             android:textColor="@android:color/white"
             tools:text="one" />
     </LinearLayout>
+
+    <ImageView
+        android:id="@+id/play_button_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingRight="15dp"
+        />
 </LinearLayout>
